@@ -1,6 +1,8 @@
 author_name: "seed-info"
 url: sub.seed-info.com
 
+future: true
+
 plugins:
   # - jekyll-seo-tag
   - jekyll-feed
